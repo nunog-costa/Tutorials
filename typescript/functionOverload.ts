@@ -1,6 +1,7 @@
 /*
  *  Tutorial: No BS TS #4 - Function Overloading in Typescript
  *  URL: https://www.youtube.com/watch?v=XnyZXNnWAOA
+ *  Command: ts-node .\functionOverload.ts
  */
 
 // Challenge: overload a function that can take 3 types of arguments
